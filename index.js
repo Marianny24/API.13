@@ -14,7 +14,7 @@ app.get("/", (req, res) => {
   console.log("Rota / solicitada");
   // Cria a rota da raiz do projeto
   res.json({
-    nome: "Nicolas Morais", // Substitua pelo seu nome
+    nome: "Marianny Santos Souza",
   });
 });
 
